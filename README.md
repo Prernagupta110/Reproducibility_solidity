@@ -129,10 +129,6 @@ Only trailing metadata section differed:
 ...a26469706673582212XXXXXXXX...
 ```
 
----
-
-
-Metadata does **not** affect runtime logic.
 
 ---
 
@@ -191,7 +187,6 @@ During the experiment, the following reproducibility barriers were encountered:
 - `0x` formatting mismatch
 - API key configuration outside virtual environment
 
-These illustrate that Solidity compilation reproducibility is fragile and environment-sensitive.
 
 ---
 
