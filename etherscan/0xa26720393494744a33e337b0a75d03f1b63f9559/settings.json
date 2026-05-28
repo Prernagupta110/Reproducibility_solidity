@@ -1,0 +1,16 @@
+{
+  "address": "0xa26720393494744a33e337b0a75d03f1b63f9559",
+  "contract_name": "Wallet",
+  "compiler_version_full": "v0.3.2-2016-04-18-81ae2a7",
+  "compiler_version": "0.3.2",
+  "optimization_used": false,
+  "runs": 200,
+  "evm_version": "Default",
+  "constructor_arguments": "",
+  "libraries": {},
+  "via_ir": false,
+  "bytecode_hash": "ipfs",
+  "is_proxy": false,
+  "implementation": "",
+  "source_kind": "single"
+}

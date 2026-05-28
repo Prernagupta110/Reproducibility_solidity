@@ -1,0 +1,20 @@
+{
+  "address": "0xc70be5b7c19529ef642d16c10dfe91c58b5c3bf0",
+  "contract_name": "CardToken",
+  "compiler_version_full": "v0.4.21+commit.dfe3193c",
+  "compiler_version": "0.4.21",
+  "optimization_used": false,
+  "runs": 200,
+  "evm_version": "Default",
+  "constructor_arguments": "",
+  "libraries": {
+    "CardToken.sol": {
+      "Maths": "0xb5f1efa8a3267cce1aea000dd2cc7a0778aa8299"
+    }
+  },
+  "via_ir": false,
+  "bytecode_hash": "ipfs",
+  "is_proxy": true,
+  "implementation": "0xb5f1efa8a3267cce1aea000dd2cc7a0778aa8299",
+  "source_kind": "single"
+}

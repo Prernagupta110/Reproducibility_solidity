@@ -1,0 +1,16 @@
+{
+  "address": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
+  "contract_name": "LinkToken",
+  "compiler_version_full": "v0.4.16+commit.d7661dd9",
+  "compiler_version": "0.4.16",
+  "optimization_used": true,
+  "runs": 200,
+  "evm_version": "Default",
+  "constructor_arguments": "",
+  "libraries": {},
+  "via_ir": false,
+  "bytecode_hash": "ipfs",
+  "is_proxy": false,
+  "implementation": "",
+  "source_kind": "single"
+}

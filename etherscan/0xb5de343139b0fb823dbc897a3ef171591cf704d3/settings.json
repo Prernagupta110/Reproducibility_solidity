@@ -1,0 +1,21 @@
+{
+  "address": "0xb5de343139b0fb823dbc897a3ef171591cf704d3",
+  "contract_name": "BrokerV2",
+  "compiler_version_full": "v0.5.17+commit.d19bba13",
+  "compiler_version": "0.5.17",
+  "optimization_used": true,
+  "runs": 800,
+  "evm_version": "Default",
+  "constructor_arguments": "000000000000000000000000000000000000000000000000000000000000001900000000000000000000000000000000000000000000000000000000000000c800000000000000000000000000000000000000000000000000000000000000190000000000000000000000000000000000000000000000000000000000000258000000000000000000000000c02aaa39b223fe8d0a0e5c4f27ead9083c756cc2000000000000000000000000c0fde5fc14b5e841ed1aaa92c66446dba2fa71e3000000000000000000000000fa1bdf7da5a89886f394a463e21b7e877be81600",
+  "libraries": {
+    "BrokerV2.sol": {
+      "TokenDetArrayLib": "0xcfdabef2efe8b0f8adc6e321cdeaeba4b0bf61e8",
+      "ERC20Addresses": "0xb5803c83f862c81a6a20f6008976633b6a35f22b"
+    }
+  },
+  "via_ir": false,
+  "bytecode_hash": "ipfs",
+  "is_proxy": true,
+  "implementation": "0xcfdabef2efe8b0f8adc6e321cdeaeba4b0bf61e8",
+  "source_kind": "single"
+}

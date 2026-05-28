@@ -1,0 +1,20 @@
+{
+  "address": "0x2b684e8905a850a91f5eea913a19dae3926a6703",
+  "contract_name": "BWService",
+  "compiler_version_full": "v0.4.23+commit.124ca40d",
+  "compiler_version": "0.4.23",
+  "optimization_used": false,
+  "runs": 200,
+  "evm_version": "Default",
+  "constructor_arguments": "000000000000000000000000635e8bed18b1cd15d231cd935e5e08c6152a12fa",
+  "libraries": {
+    "BWService.sol": {
+      "BWUtility": "0x402cc14a55f355883df5549c0434877a68b7d089"
+    }
+  },
+  "via_ir": false,
+  "bytecode_hash": "ipfs",
+  "is_proxy": false,
+  "implementation": "",
+  "source_kind": "single"
+}

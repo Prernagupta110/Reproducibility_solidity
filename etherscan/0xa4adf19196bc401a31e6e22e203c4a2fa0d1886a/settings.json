@@ -1,0 +1,20 @@
+{
+  "address": "0xa4adf19196bc401a31e6e22e203c4a2fa0d1886a",
+  "contract_name": "ICHIVault",
+  "compiler_version_full": "v0.7.6+commit.7338295f",
+  "compiler_version": "0.7.6",
+  "optimization_used": true,
+  "runs": 200,
+  "evm_version": "Default",
+  "constructor_arguments": "",
+  "libraries": {
+    "ICHIVault.sol": {
+      "UV3Math": "0x75f54021909da35d519aa5868c9e81bab6f99726"
+    }
+  },
+  "via_ir": false,
+  "bytecode_hash": "ipfs",
+  "is_proxy": false,
+  "implementation": "",
+  "source_kind": "single"
+}

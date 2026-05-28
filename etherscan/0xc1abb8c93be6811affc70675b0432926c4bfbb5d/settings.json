@@ -1,0 +1,16 @@
+{
+  "address": "0xc1ABb8c93be6811aFfC70675b0432926c4BFBb5D",
+  "contract_name": "UERII",
+  "compiler_version_full": "v0.8.17+commit.8df45f5f",
+  "compiler_version": "0.8.17",
+  "optimization_used": false,
+  "runs": 200,
+  "evm_version": "Default",
+  "constructor_arguments": "",
+  "libraries": {},
+  "via_ir": false,
+  "bytecode_hash": "ipfs",
+  "is_proxy": false,
+  "implementation": "",
+  "source_kind": "single"
+}

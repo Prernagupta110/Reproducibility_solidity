@@ -1,0 +1,16 @@
+{
+  "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+  "contract_name": "Dai",
+  "compiler_version_full": "v0.5.12+commit.7709ece9",
+  "compiler_version": "0.5.12",
+  "optimization_used": false,
+  "runs": 200,
+  "evm_version": "Default",
+  "constructor_arguments": "0000000000000000000000000000000000000000000000000000000000000001",
+  "libraries": {},
+  "via_ir": false,
+  "bytecode_hash": "ipfs",
+  "is_proxy": false,
+  "implementation": "",
+  "source_kind": "single"
+}

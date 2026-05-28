@@ -1,0 +1,22 @@
+{
+  "address": "0x3eee7fe99640c47abf43cd2c2b6a80eb785e38cf",
+  "contract_name": "gETH",
+  "compiler_version_full": "v0.6.12+commit.27d51765",
+  "compiler_version": "0.6.12",
+  "optimization_used": false,
+  "runs": 200,
+  "evm_version": "Default",
+  "constructor_arguments": "",
+  "libraries": {
+    "gETH.sol": {
+      "G": "0x2f8bc65e6587b4ac6408c92a66209a9f1ef2ce08",
+      "GLiquidityPoolManager": "0xca54c7ae9a33a2a6f16eee603c97a2dd9ea6201c",
+      "GPortfolioReserveManager": "0x702281b181ffa845c48fd4729bdd7deca2e88589"
+    }
+  },
+  "via_ir": false,
+  "bytecode_hash": "ipfs",
+  "is_proxy": false,
+  "implementation": "",
+  "source_kind": "single"
+}

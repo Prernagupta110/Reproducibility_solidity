@@ -1,0 +1,16 @@
+{
+  "address": "0x00000000006c3852cbEf3e08E8dF289169EdE581",
+  "contract_name": "Seaport",
+  "compiler_version_full": "v0.8.14+commit.80d49f37",
+  "compiler_version": "0.8.14",
+  "optimization_used": true,
+  "runs": 19066,
+  "evm_version": "Default",
+  "constructor_arguments": "00000000000000000000000000000000F9490004C11Cef243f5400493c00Ad63",
+  "libraries": {},
+  "via_ir": true,
+  "bytecode_hash": "ipfs",
+  "is_proxy": false,
+  "implementation": "",
+  "source_kind": "std-json"
+}

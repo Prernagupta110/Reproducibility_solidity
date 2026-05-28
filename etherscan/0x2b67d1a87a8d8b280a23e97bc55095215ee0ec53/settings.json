@@ -1,0 +1,16 @@
+{
+  "address": "0x2b67d1a87a8d8b280a23e97bc55095215ee0ec53",
+  "contract_name": "Proxy",
+  "compiler_version_full": "v0.4.24+commit.e67f0147",
+  "compiler_version": "0.4.24",
+  "optimization_used": false,
+  "runs": 200,
+  "evm_version": "Default",
+  "constructor_arguments": "",
+  "libraries": {},
+  "via_ir": false,
+  "bytecode_hash": "ipfs",
+  "is_proxy": true,
+  "implementation": "0x34f6bb8d276688d4ec76a1c14d02835e77ef61ca",
+  "source_kind": "single"
+}

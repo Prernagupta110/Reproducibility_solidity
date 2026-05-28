@@ -1,0 +1,16 @@
+{
+  "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+  "contract_name": "Uni",
+  "compiler_version_full": "v0.5.16+commit.9c3226ce",
+  "compiler_version": "0.5.16",
+  "optimization_used": true,
+  "runs": 999999,
+  "evm_version": "Default",
+  "constructor_arguments": "00000000000000000000000041653c7d61609d856f29355e404f310ec4142cfb00000000000000000000000041653c7d61609d856f29355e404f310ec4142cfb0000000000000000000000000000000000000000000000000000000065920080",
+  "libraries": {},
+  "via_ir": false,
+  "bytecode_hash": "ipfs",
+  "is_proxy": false,
+  "implementation": "",
+  "source_kind": "single"
+}

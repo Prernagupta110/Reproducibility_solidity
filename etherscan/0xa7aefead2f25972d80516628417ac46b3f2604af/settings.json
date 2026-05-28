@@ -1,0 +1,16 @@
+{
+  "address": "0xA7AeFeaD2F25972D80516628417ac46b3F2604Af",
+  "contract_name": "ERC1967Proxy",
+  "compiler_version_full": "v0.8.2+commit.661d1103",
+  "compiler_version": "0.8.2",
+  "optimization_used": true,
+  "runs": 200,
+  "evm_version": "Default",
+  "constructor_arguments": "",
+  "libraries": {},
+  "via_ir": false,
+  "bytecode_hash": "ipfs",
+  "is_proxy": true,
+  "implementation": "0x4bd844f72a8edd323056130a86fc624d0dbcf5b0",
+  "source_kind": "single"
+}

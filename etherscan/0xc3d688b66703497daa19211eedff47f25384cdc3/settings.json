@@ -1,0 +1,16 @@
+{
+  "address": "0xc3d688B66703497DAA19211EEdff47f25384cdc3",
+  "contract_name": "TransparentUpgradeableProxy",
+  "compiler_version_full": "v0.8.15+commit.e14f2714",
+  "compiler_version": "0.8.15",
+  "optimization_used": true,
+  "runs": 1,
+  "evm_version": "Default",
+  "constructor_arguments": "0000000000000000000000001c1853bc7c6bff0d276da53972c0b1a066db1ae70000000000000000000000001ec63b5883c3481134fd50d5daebc83ecd2e877900000000000000000000000000000000000000000000000000000000000000600000000000000000000000000000000000000000000000000000000000000000",
+  "libraries": {},
+  "via_ir": true,
+  "bytecode_hash": "ipfs",
+  "is_proxy": true,
+  "implementation": "0x83d491269720ce925f92c6bf9f66b7a0779a293a",
+  "source_kind": "std-json"
+}

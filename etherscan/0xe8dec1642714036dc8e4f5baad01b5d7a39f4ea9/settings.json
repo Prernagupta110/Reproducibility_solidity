@@ -1,0 +1,16 @@
+{
+  "address": "0xe8dec1642714036dc8e4f5baad01b5d7a39f4ea9",
+  "contract_name": "AdminUpgradeabilityProxy",
+  "compiler_version_full": "v0.5.3+commit.10d17f24",
+  "compiler_version": "0.5.3",
+  "optimization_used": false,
+  "runs": 200,
+  "evm_version": "constantinople",
+  "constructor_arguments": "",
+  "libraries": {},
+  "via_ir": false,
+  "bytecode_hash": "ipfs",
+  "is_proxy": true,
+  "implementation": "0x410893a9b56c2f1b063bb4f768bcd40acc2f4770",
+  "source_kind": "single"
+}

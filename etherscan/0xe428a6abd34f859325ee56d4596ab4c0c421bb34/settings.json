@@ -1,0 +1,16 @@
+{
+  "address": "0xe428a6abd34f859325ee56d4596ab4c0c421bb34",
+  "contract_name": "TG",
+  "compiler_version_full": "v0.8.7+commit.e28d00a7",
+  "compiler_version": "0.8.7",
+  "optimization_used": true,
+  "runs": 300,
+  "evm_version": "Default",
+  "constructor_arguments": "",
+  "libraries": {},
+  "via_ir": false,
+  "bytecode_hash": "ipfs",
+  "is_proxy": true,
+  "implementation": "0xe4e4003afe3765aca8149a82fc064c0b125b9e5a",
+  "source_kind": "std-json"
+}

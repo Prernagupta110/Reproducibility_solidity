@@ -1,0 +1,20 @@
+{
+  "address": "0xb9c499a98593fafe3b7e966719cfda9f85ffac97",
+  "contract_name": "$ZFGDividendTracker",
+  "compiler_version_full": "v0.8.14+commit.80d49f37",
+  "compiler_version": "0.8.14",
+  "optimization_used": true,
+  "runs": 200,
+  "evm_version": "Default",
+  "constructor_arguments": "",
+  "libraries": {
+    "$ZFGDividendTracker.sol": {
+      "IterableMapping": "0xa268a890a8047871d71f93cecc9af0b35e32e6e1"
+    }
+  },
+  "via_ir": false,
+  "bytecode_hash": "ipfs",
+  "is_proxy": true,
+  "implementation": "0xa268a890a8047871d71f93cecc9af0b35e32e6e1",
+  "source_kind": "single"
+}

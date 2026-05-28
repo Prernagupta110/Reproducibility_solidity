@@ -1,0 +1,16 @@
+{
+  "address": "0x418C24191aE947A78C99fDc0e45a1f96Afb254BE",
+  "contract_name": "Token",
+  "compiler_version_full": "v0.8.7+commit.e28d00a7",
+  "compiler_version": "0.8.7",
+  "optimization_used": false,
+  "runs": 200,
+  "evm_version": "Default",
+  "constructor_arguments": "",
+  "libraries": {},
+  "via_ir": false,
+  "bytecode_hash": "ipfs",
+  "is_proxy": false,
+  "implementation": "",
+  "source_kind": "single"
+}
