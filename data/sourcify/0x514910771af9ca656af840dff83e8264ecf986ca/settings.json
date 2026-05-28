@@ -1,0 +1,17 @@
+{
+  "address": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
+  "contract_name": "LinkToken",
+  "contract_path": "LinkToken.sol",
+  "compiler_version_full": "0.4.16+commit.d7661dd9",
+  "compiler_version": "0.4.16",
+  "optimization_used": true,
+  "runs": 200,
+  "evm_version": "Default",
+  "via_ir": false,
+  "bytecode_hash": "ipfs",
+  "libraries": {},
+  "sourcify_match": "match",
+  "sourcify_creation_match": "match",
+  "sourcify_runtime_match": "match",
+  "sourcify_source": "apiv2"
+}

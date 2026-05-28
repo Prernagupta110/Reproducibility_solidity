@@ -1,0 +1,17 @@
+{
+  "address": "0xA7AeFeaD2F25972D80516628417ac46b3F2604Af",
+  "contract_name": "ERC1967Proxy",
+  "contract_path": "ERC1967Proxy.sol",
+  "compiler_version_full": "0.8.2+commit.661d1103",
+  "compiler_version": "0.8.2",
+  "optimization_used": true,
+  "runs": 200,
+  "evm_version": "istanbul",
+  "via_ir": false,
+  "bytecode_hash": "ipfs",
+  "libraries": {},
+  "sourcify_match": "match",
+  "sourcify_creation_match": "match",
+  "sourcify_runtime_match": "match",
+  "sourcify_source": "apiv2"
+}

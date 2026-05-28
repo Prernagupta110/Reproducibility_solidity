@@ -1,0 +1,17 @@
+{
+  "address": "0x00000000006c3852cbEf3e08E8dF289169EdE581",
+  "contract_name": "Seaport",
+  "contract_path": "contracts/Seaport.sol",
+  "compiler_version_full": "0.8.14+commit.80d49f37",
+  "compiler_version": "0.8.14",
+  "optimization_used": true,
+  "runs": 19066,
+  "evm_version": "london",
+  "via_ir": true,
+  "bytecode_hash": "ipfs",
+  "libraries": {},
+  "sourcify_match": "match",
+  "sourcify_creation_match": "match",
+  "sourcify_runtime_match": "match",
+  "sourcify_source": "apiv2"
+}

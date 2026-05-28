@@ -1,0 +1,11 @@
+{"script": "fetch_creation", "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F", "error": "factory deploy, creationBytecode absent", "ts": "2026-05-28T11:45:33"}
+{"script": "fetch_creation", "address": "0x00000000006c3852cbEf3e08E8dF289169EdE581", "error": "factory deploy, creationBytecode absent", "ts": "2026-05-28T11:45:39"}
+{"script": "fetch_creation", "address": "0xd0c2c9b03fc3f358e5854fdf801a7d765929cc5a", "error": "factory deploy, creationBytecode absent", "ts": "2026-05-28T11:45:42"}
+{"script": "fetch_creation", "address": "0xc40d57992f5b657a480b8ed6256128019d8b2139", "error": "factory deploy, creationBytecode absent", "ts": "2026-05-28T11:45:49"}
+{"script": "fetch_creation", "address": "0xc6244db2b2614ddb1f8ffb0d4b0ae5e2686a9f69", "error": "factory deploy, creationBytecode absent", "ts": "2026-05-28T11:45:54"}
+{"script": "fetch_etherscan", "address": "0xc40d57992f5b657a480b8ed6256128019d8b2139", "error": "unparseable compiler version: vyper:0.1.0b4", "ts": "2026-05-28T11:46:34"}
+{"script": "fetch_etherscan", "address": "0x27a2fc2d47c5063a551c8fe81f580b84ab78ac52", "error": "unparseable compiler version: vyper:0.3.7", "ts": "2026-05-28T11:46:41"}
+{"script": "recompile", "address": "0x1c68f4f35ac5239650333d291e6ce7f841149937", "error": "solc 0.2.1 unavailable via solc-select (pre-0.3.6 or unsupported): usage: solc-select install [-h] [INSTALL_VERSIONS ...]\nsolc-select install: error: argument INSTALL_VERSIONS: Invalid ve", "ts": "2026-05-28T11:52:03"}
+{"script": "recompile", "address": "0xa26720393494744a33e337b0a75d03f1b63f9559", "error": "solc 0.3.2 unavailable via solc-select (pre-0.3.6 or unsupported): usage: solc-select install [-h] [INSTALL_VERSIONS ...]\nsolc-select install: error: argument INSTALL_VERSIONS: Invalid ve", "ts": "2026-05-28T11:52:25"}
+{"script": "recompile_sourcify", "address": "0x1c68f4f35ac5239650333d291e6ce7f841149937", "error": "solc 0.2.1 unavailable via solc-select (pre-0.3.6 or unsupported): usage: solc-select install [-h] [INSTALL_VERSIONS ...]\nsolc-select install: error: argument INSTALL_VERSIONS: Invalid ve", "ts": "2026-05-28T11:54:06"}
+{"script": "recompile_sourcify", "address": "0x27a2fc2d47c5063a551c8fe81f580b84ab78ac52", "error": "solc 0.3.7 unavailable via solc-select (pre-0.3.6 or unsupported): ", "ts": "2026-05-28T11:54:06"}

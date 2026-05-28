@@ -1,0 +1,17 @@
+{
+  "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+  "contract_name": "TetherToken",
+  "contract_path": "TetherToken.sol",
+  "compiler_version_full": "0.4.18+commit.9cf6e910",
+  "compiler_version": "0.4.18",
+  "optimization_used": false,
+  "runs": 0,
+  "evm_version": "Default",
+  "via_ir": false,
+  "bytecode_hash": "ipfs",
+  "libraries": {},
+  "sourcify_match": "match",
+  "sourcify_creation_match": "match",
+  "sourcify_runtime_match": "match",
+  "sourcify_source": "apiv2"
+}

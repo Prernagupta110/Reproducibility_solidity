@@ -1,0 +1,17 @@
+{
+  "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+  "contract_name": "FiatTokenProxy",
+  "contract_path": "FiatTokenProxy.sol",
+  "compiler_version_full": "0.4.24+commit.e67f0147",
+  "compiler_version": "0.4.24",
+  "optimization_used": false,
+  "runs": 200,
+  "evm_version": "byzantium",
+  "via_ir": false,
+  "bytecode_hash": "ipfs",
+  "libraries": {},
+  "sourcify_match": "match",
+  "sourcify_creation_match": "match",
+  "sourcify_runtime_match": "match",
+  "sourcify_source": "apiv2"
+}

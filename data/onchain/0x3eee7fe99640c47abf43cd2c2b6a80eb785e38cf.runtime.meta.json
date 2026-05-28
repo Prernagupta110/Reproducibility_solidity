@@ -1,0 +1,9 @@
+{
+  "ipfs": "1220c1c8fdf7ee1af6ba0a62223e8d1cca254bf30f6909e11a79992876ba87aab263",
+  "solc": "00060c",
+  "_decoded_solc_version": "0.6.12",
+  "_cbor_raw_hex": "a2646970667358221220c1c8fdf7ee1af6ba0a62223e8d1cca254bf30f6909e11a79992876ba87aab26364736f6c634300060c",
+  "_cbor_length_bytes": 53,
+  "_has_metadata": true,
+  "_metadata_kind": "ipfs"
+}

@@ -1,0 +1,17 @@
+{
+  "address": "0xc3d688B66703497DAA19211EEdff47f25384cdc3",
+  "contract_name": "TransparentUpgradeableProxy",
+  "contract_path": "contracts/vendor/proxy/transparent/TransparentUpgradeableProxy.sol",
+  "compiler_version_full": "0.8.15+commit.e14f2714",
+  "compiler_version": "0.8.15",
+  "optimization_used": false,
+  "runs": 1,
+  "evm_version": "london",
+  "via_ir": true,
+  "bytecode_hash": "ipfs",
+  "libraries": {},
+  "sourcify_match": "exact_match",
+  "sourcify_creation_match": "exact_match",
+  "sourcify_runtime_match": "exact_match",
+  "sourcify_source": "apiv2"
+}

@@ -1,0 +1,17 @@
+{
+  "address": "0x7645DdfEecedA57e41f92679c4aCd83c56A81D14",
+  "contract_name": "Flux",
+  "contract_path": "Flux.sol",
+  "compiler_version_full": "0.6.8+commit.0bbfe453",
+  "compiler_version": "0.6.8",
+  "optimization_used": false,
+  "runs": 200,
+  "evm_version": "istanbul",
+  "via_ir": false,
+  "bytecode_hash": "ipfs",
+  "libraries": {},
+  "sourcify_match": "match",
+  "sourcify_creation_match": "match",
+  "sourcify_runtime_match": "match",
+  "sourcify_source": "apiv2"
+}

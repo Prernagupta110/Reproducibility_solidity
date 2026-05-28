@@ -1,0 +1,10 @@
+{
+  "bzzr1": "68d42e51eae03f461fed8d2db904ba521e900521e0a2199b4a57d733502ad3da",
+  "experimental": true,
+  "solc": "000510",
+  "_decoded_solc_version": "0.5.16",
+  "_cbor_raw_hex": "a365627a7a7231582068d42e51eae03f461fed8d2db904ba521e900521e0a2199b4a57d733502ad3da6c6578706572696d656e74616cf564736f6c6343000510",
+  "_cbor_length_bytes": 66,
+  "_has_metadata": true,
+  "_metadata_kind": "bzzr1"
+}

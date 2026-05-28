@@ -1,0 +1,17 @@
+{
+  "address": "0xa4adf19196bc401a31e6e22e203c4a2fa0d1886a",
+  "contract_name": "ICHIVault",
+  "contract_path": "ICHIVault.sol",
+  "compiler_version_full": "0.7.6+commit.7338295f",
+  "compiler_version": "0.7.6",
+  "optimization_used": true,
+  "runs": 200,
+  "evm_version": "istanbul",
+  "via_ir": false,
+  "bytecode_hash": "ipfs",
+  "libraries": {},
+  "sourcify_match": "match",
+  "sourcify_creation_match": "match",
+  "sourcify_runtime_match": "match",
+  "sourcify_source": "apiv2"
+}

@@ -1,0 +1,17 @@
+{
+  "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+  "contract_name": "Uni",
+  "contract_path": "Uni.sol",
+  "compiler_version_full": "0.5.16+commit.9c3226ce",
+  "compiler_version": "0.5.16",
+  "optimization_used": true,
+  "runs": 999999,
+  "evm_version": "istanbul",
+  "via_ir": false,
+  "bytecode_hash": "ipfs",
+  "libraries": {},
+  "sourcify_match": "match",
+  "sourcify_creation_match": "match",
+  "sourcify_runtime_match": "match",
+  "sourcify_source": "apiv2"
+}

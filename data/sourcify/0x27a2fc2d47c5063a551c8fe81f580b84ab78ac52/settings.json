@@ -1,0 +1,15 @@
+{
+  "address": "0x27a2fc2d47c5063a551c8fe81f580b84ab78ac52",
+  "contract_name": "StakingModule",
+  "contract_path": "StakingModule.vy",
+  "compiler_version_full": "0.3.7+commit.6020b8bb",
+  "compiler_version": "0.3.7",
+  "optimization_used": false,
+  "runs": 200,
+  "evm_version": "paris",
+  "via_ir": false,
+  "bytecode_hash": "ipfs",
+  "libraries": {},
+  "sourcify_match": "match",
+  "sourcify_source": "legacy_files"
+}

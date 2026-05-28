@@ -1,0 +1,17 @@
+{
+  "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+  "contract_name": "WETH9",
+  "contract_path": "WETH9.sol",
+  "compiler_version_full": "0.4.19+commit.c4cbbb05",
+  "compiler_version": "0.4.19",
+  "optimization_used": false,
+  "runs": 200,
+  "evm_version": "Default",
+  "via_ir": false,
+  "bytecode_hash": "ipfs",
+  "libraries": {},
+  "sourcify_match": "match",
+  "sourcify_creation_match": "match",
+  "sourcify_runtime_match": "match",
+  "sourcify_source": "apiv2"
+}

@@ -1,0 +1,17 @@
+{
+  "address": "0xc6244db2b2614ddb1f8ffb0d4b0ae5e2686a9f69",
+  "contract_name": "UniswapV2Pair",
+  "contract_path": "UniswapV2Pair.sol",
+  "compiler_version_full": "0.5.16+commit.9c3226ce",
+  "compiler_version": "0.5.16",
+  "optimization_used": true,
+  "runs": 999999,
+  "evm_version": "istanbul",
+  "via_ir": false,
+  "bytecode_hash": "ipfs",
+  "libraries": {},
+  "sourcify_match": "match",
+  "sourcify_creation_match": "match",
+  "sourcify_runtime_match": "match",
+  "sourcify_source": "apiv2"
+}

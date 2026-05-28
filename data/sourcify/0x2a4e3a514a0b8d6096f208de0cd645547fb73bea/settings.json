@@ -1,0 +1,17 @@
+{
+  "address": "0x2a4e3a514a0b8d6096f208de0cd645547fb73bea",
+  "contract_name": "TransparentUpgradeableProxy",
+  "contract_path": "solc_0.7/openzeppelin/proxy/TransparentUpgradeableProxy.sol",
+  "compiler_version_full": "0.7.6+commit.7338295f",
+  "compiler_version": "0.7.6",
+  "optimization_used": true,
+  "runs": 999999,
+  "evm_version": "istanbul",
+  "via_ir": false,
+  "bytecode_hash": "ipfs",
+  "libraries": {},
+  "sourcify_match": "exact_match",
+  "sourcify_creation_match": "exact_match",
+  "sourcify_runtime_match": "exact_match",
+  "sourcify_source": "apiv2"
+}

@@ -1,0 +1,17 @@
+{
+  "address": "0x40cdba18bfbc525a6cf35251e7d90a9b5b66ce30",
+  "contract_name": "DssSpell",
+  "contract_path": "DssSpell.sol",
+  "compiler_version_full": "0.8.16+commit.07a7930e",
+  "compiler_version": "0.8.16",
+  "optimization_used": false,
+  "runs": 200,
+  "evm_version": "london",
+  "via_ir": false,
+  "bytecode_hash": "ipfs",
+  "libraries": {},
+  "sourcify_match": "match",
+  "sourcify_creation_match": "match",
+  "sourcify_runtime_match": "match",
+  "sourcify_source": "apiv2"
+}

@@ -1,0 +1,167 @@
+[
+  {
+    "address": "0x418C24191aE947A78C99fDc0e45a1f96Afb254BE",
+    "via": "apiv2",
+    "match": "match"
+  },
+  {
+    "address": "0xc1ABb8c93be6811aFfC70675b0432926c4BFBb5D",
+    "via": "apiv2",
+    "match": "match"
+  },
+  {
+    "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "via": "apiv2",
+    "match": "match"
+  },
+  {
+    "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+    "via": "apiv2",
+    "match": "match"
+  },
+  {
+    "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+    "via": "apiv2",
+    "match": "match"
+  },
+  {
+    "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "via": "apiv2",
+    "match": "match"
+  },
+  {
+    "address": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
+    "via": "apiv2",
+    "match": "match"
+  },
+  {
+    "address": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
+    "via": "apiv2",
+    "match": "match"
+  },
+  {
+    "address": "0x7645DdfEecedA57e41f92679c4aCd83c56A81D14",
+    "via": "apiv2",
+    "match": "match"
+  },
+  {
+    "address": "0xc3d688B66703497DAA19211EEdff47f25384cdc3",
+    "via": "apiv2",
+    "match": "exact_match"
+  },
+  {
+    "address": "0x00000000006c3852cbEf3e08E8dF289169EdE581",
+    "via": "apiv2",
+    "match": "match"
+  },
+  {
+    "address": "0xA7AeFeaD2F25972D80516628417ac46b3F2604Af",
+    "via": "apiv2",
+    "match": "match"
+  },
+  {
+    "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "via": "apiv2",
+    "match": "match"
+  },
+  {
+    "address": "0xd0c2c9b03fc3f358e5854fdf801a7d765929cc5a",
+    "via": "apiv2",
+    "match": "match"
+  },
+  {
+    "address": "0xe8dec1642714036dc8e4f5baad01b5d7a39f4ea9",
+    "via": "apiv2",
+    "match": "match"
+  },
+  {
+    "address": "0xb9c499a98593fafe3b7e966719cfda9f85ffac97",
+    "via": "apiv2",
+    "match": "match"
+  },
+  {
+    "address": "0x3eee7fe99640c47abf43cd2c2b6a80eb785e38cf",
+    "via": "apiv2",
+    "match": "match"
+  },
+  {
+    "address": "0x9c9a8877319dde5c273811042686b1c91522b5ce",
+    "via": "apiv2",
+    "match": "exact_match"
+  },
+  {
+    "address": "0x2b67d1a87a8d8b280a23e97bc55095215ee0ec53",
+    "via": "apiv2",
+    "match": "match"
+  },
+  {
+    "address": "0xc40d57992f5b657a480b8ed6256128019d8b2139",
+    "via": "none",
+    "match": "absent"
+  },
+  {
+    "address": "0xf650c3d88d12db855b8bf7d11be6c55a4e07dcc9",
+    "via": "apiv2",
+    "match": "exact_match"
+  },
+  {
+    "address": "0x40cdba18bfbc525a6cf35251e7d90a9b5b66ce30",
+    "via": "apiv2",
+    "match": "match"
+  },
+  {
+    "address": "0xb5de343139b0fb823dbc897a3ef171591cf704d3",
+    "via": "apiv2",
+    "match": "match"
+  },
+  {
+    "address": "0x2a4e3a514a0b8d6096f208de0cd645547fb73bea",
+    "via": "apiv2",
+    "match": "exact_match"
+  },
+  {
+    "address": "0xc6244db2b2614ddb1f8ffb0d4b0ae5e2686a9f69",
+    "via": "apiv2",
+    "match": "match"
+  },
+  {
+    "address": "0x1c68f4f35ac5239650333d291e6ce7f841149937",
+    "via": "legacy",
+    "match": "match"
+  },
+  {
+    "address": "0x27a2fc2d47c5063a551c8fe81f580b84ab78ac52",
+    "via": "legacy",
+    "match": "match"
+  },
+  {
+    "address": "0x7093c3e904720e1fd031fd48aeb424bd2c5c6bfc",
+    "via": "apiv2",
+    "match": "match"
+  },
+  {
+    "address": "0x2b684e8905a850a91f5eea913a19dae3926a6703",
+    "via": "apiv2",
+    "match": "match"
+  },
+  {
+    "address": "0xc70be5b7c19529ef642d16c10dfe91c58b5c3bf0",
+    "via": "apiv2",
+    "match": "match"
+  },
+  {
+    "address": "0xa4adf19196bc401a31e6e22e203c4a2fa0d1886a",
+    "via": "apiv2",
+    "match": "match"
+  },
+  {
+    "address": "0xe428a6abd34f859325ee56d4596ab4c0c421bb34",
+    "via": "apiv2",
+    "match": "exact_match"
+  },
+  {
+    "address": "0xa26720393494744a33e337b0a75d03f1b63f9559",
+    "via": "none",
+    "match": "absent"
+  }
+]

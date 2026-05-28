@@ -1,0 +1,6 @@
+variant,code_identical,meta_identical,verdict
+baseline,True,True,(reference)
+crlf_line_endings,True,False,"code identical, metadata differs -> PARTIAL only"
+no_final_newline,True,False,"code identical, metadata differs -> PARTIAL only"
+trailing_spaces,True,False,"code identical, metadata differs -> PARTIAL only"
+nested_path,True,False,"code identical, metadata differs -> PARTIAL only"

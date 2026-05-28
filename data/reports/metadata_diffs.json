@@ -1,0 +1,665 @@
+[
+  {
+    "address": "0x418C24191aE947A78C99fDc0e45a1f96Afb254BE",
+    "comparison": "local-from-etherscan-sources",
+    "result": "differs",
+    "differing_fields": [
+      "settings.compilationTarget.Contract.sol",
+      "settings.compilationTarget.Token.sol",
+      "sources.Contract.sol",
+      "sources.Token.sol"
+    ]
+  },
+  {
+    "address": "0x418C24191aE947A78C99fDc0e45a1f96Afb254BE",
+    "comparison": "local-from-sourcify-sources",
+    "result": "identical",
+    "differing_fields": []
+  },
+  {
+    "address": "0xc1ABb8c93be6811aFfC70675b0432926c4BFBb5D",
+    "comparison": "local-from-etherscan-sources",
+    "result": "differs",
+    "differing_fields": [
+      "settings.compilationTarget.Contract.sol",
+      "settings.compilationTarget.UERII.sol",
+      "sources.Contract.sol",
+      "sources.UERII.sol"
+    ]
+  },
+  {
+    "address": "0xc1ABb8c93be6811aFfC70675b0432926c4BFBb5D",
+    "comparison": "local-from-sourcify-sources",
+    "result": "identical",
+    "differing_fields": []
+  },
+  {
+    "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "comparison": "local-from-etherscan-sources",
+    "result": "differs",
+    "differing_fields": [
+      "output.devdoc.methods.pause().details",
+      "output.devdoc.methods.transferOwnership(address).details",
+      "output.devdoc.methods.transferOwnership(address).params.newOwner",
+      "output.devdoc.methods.unpause().details",
+      "output.userdoc.methods.getBlackListStatus(address).notice",
+      "settings.compilationTarget.Contract.sol",
+      "settings.compilationTarget.TetherToken.sol",
+      "sources.Contract.sol",
+      "sources.TetherToken.sol"
+    ]
+  },
+  {
+    "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "comparison": "local-from-sourcify-sources",
+    "result": "identical",
+    "differing_fields": []
+  },
+  {
+    "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+    "comparison": "local-from-etherscan-sources",
+    "result": "differs",
+    "differing_fields": [
+      "settings.compilationTarget.Contract.sol",
+      "settings.compilationTarget.Dai.sol",
+      "sources.Contract.sol",
+      "sources.Dai.sol"
+    ]
+  },
+  {
+    "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+    "comparison": "local-from-sourcify-sources",
+    "result": "identical",
+    "differing_fields": []
+  },
+  {
+    "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+    "comparison": "local-from-etherscan-sources",
+    "result": "differs",
+    "differing_fields": [
+      "settings.compilationTarget.Contract.sol",
+      "settings.compilationTarget.Uni.sol",
+      "sources.Contract.sol",
+      "sources.Uni.sol"
+    ]
+  },
+  {
+    "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+    "comparison": "local-from-sourcify-sources",
+    "result": "identical",
+    "differing_fields": []
+  },
+  {
+    "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "comparison": "local-from-etherscan-sources",
+    "result": "differs",
+    "differing_fields": [
+      "settings.compilationTarget.Contract.sol",
+      "settings.compilationTarget.WETH9.sol",
+      "sources.Contract.sol",
+      "sources.WETH9.sol"
+    ]
+  },
+  {
+    "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "comparison": "local-from-sourcify-sources",
+    "result": "identical",
+    "differing_fields": []
+  },
+  {
+    "address": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
+    "comparison": "local-from-etherscan-sources",
+    "result": "differs",
+    "differing_fields": [
+      "output.devdoc.methods.allowance(address,address).details",
+      "output.devdoc.methods.allowance(address,address).params._owner",
+      "output.devdoc.methods.allowance(address,address).params._spender",
+      "output.devdoc.methods.allowance(address,address).return",
+      "output.devdoc.methods.approve(address,uint256).details",
+      "output.devdoc.methods.approve(address,uint256).params._spender",
+      "output.devdoc.methods.approve(address,uint256).params._value",
+      "output.devdoc.methods.balanceOf(address).details",
+      "output.devdoc.methods.balanceOf(address).params._owner",
+      "output.devdoc.methods.balanceOf(address).return",
+      "output.devdoc.methods.transfer(address,uint256).details",
+      "output.devdoc.methods.transfer(address,uint256).params._to",
+      "output.devdoc.methods.transfer(address,uint256).params._value",
+      "output.devdoc.methods.transferAndCall(address,uint256,bytes).details",
+      "output.devdoc.methods.transferAndCall(address,uint256,bytes).params._data",
+      "output.devdoc.methods.transferAndCall(address,uint256,bytes).params._to",
+      "output.devdoc.methods.transferAndCall(address,uint256,bytes).params._value",
+      "output.devdoc.methods.transferFrom(address,address,uint256).details",
+      "output.devdoc.methods.transferFrom(address,address,uint256).params._from",
+      "output.devdoc.methods.transferFrom(address,address,uint256).params._to",
+      "output.devdoc.methods.transferFrom(address,address,uint256).params._value",
+      "settings.compilationTarget.Contract.sol",
+      "settings.compilationTarget.LinkToken.sol",
+      "sources.Contract.sol",
+      "sources.LinkToken.sol"
+    ]
+  },
+  {
+    "address": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
+    "comparison": "local-from-sourcify-sources",
+    "result": "identical",
+    "differing_fields": []
+  },
+  {
+    "address": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
+    "comparison": "local-from-etherscan-sources",
+    "result": "differs",
+    "differing_fields": [
+      "output.devdoc.author",
+      "output.devdoc.details",
+      "output.devdoc.methods.allowance(address,address).details",
+      "output.devdoc.methods.approve(address,uint256).details",
+      "output.devdoc.methods.balanceOf(address).details",
+      "output.devdoc.methods.burn(uint256).details",
+      "output.devdoc.methods.burn(uint256).params.value",
+      "output.devdoc.methods.constructor.details",
+      "output.devdoc.methods.constructor.params.decimals",
+      "output.devdoc.methods.constructor.params.name",
+      "output.devdoc.methods.constructor.params.symbol",
+      "output.devdoc.methods.constructor.params.tokenOwnerAddress",
+      "output.devdoc.methods.constructor.params.totalSupply",
+      "output.devdoc.methods.decimals().return",
+      "output.devdoc.methods.decreaseAllowance(address,uint256).details",
+      "output.devdoc.methods.increaseAllowance(address,uint256).details",
+      "output.devdoc.methods.name().return",
+      "output.devdoc.methods.symbol().return",
+      "output.devdoc.methods.totalSupply().details",
+      "output.devdoc.methods.transfer(address,uint256).details",
+      "output.devdoc.methods.transferFrom(address,address,uint256).details",
+      "output.devdoc.title",
+      "settings.compilationTarget.Contract.sol",
+      "settings.compilationTarget.TokenMintERC20Token.sol",
+      "settings.optimizer.runs",
+      "sources.Contract.sol",
+      "sources.TokenMintERC20Token.sol"
+    ]
+  },
+  {
+    "address": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
+    "comparison": "local-from-sourcify-sources",
+    "result": "identical",
+    "differing_fields": []
+  },
+  {
+    "address": "0x7645DdfEecedA57e41f92679c4aCd83c56A81D14",
+    "comparison": "local-from-etherscan-sources",
+    "result": "differs",
+    "differing_fields": [
+      "settings.compilationTarget.Contract.sol",
+      "settings.compilationTarget.Flux.sol",
+      "sources.Contract.sol",
+      "sources.Flux.sol"
+    ]
+  },
+  {
+    "address": "0x7645DdfEecedA57e41f92679c4aCd83c56A81D14",
+    "comparison": "local-from-sourcify-sources",
+    "result": "identical",
+    "differing_fields": []
+  },
+  {
+    "address": "0xc3d688B66703497DAA19211EEdff47f25384cdc3",
+    "comparison": "local-from-etherscan-sources",
+    "result": "identical",
+    "differing_fields": []
+  },
+  {
+    "address": "0xc3d688B66703497DAA19211EEdff47f25384cdc3",
+    "comparison": "local-from-sourcify-sources",
+    "result": "identical",
+    "differing_fields": []
+  },
+  {
+    "address": "0x00000000006c3852cbEf3e08E8dF289169EdE581",
+    "comparison": "local-from-etherscan-sources",
+    "result": "identical",
+    "differing_fields": []
+  },
+  {
+    "address": "0x00000000006c3852cbEf3e08E8dF289169EdE581",
+    "comparison": "local-from-sourcify-sources",
+    "result": "identical",
+    "differing_fields": []
+  },
+  {
+    "address": "0xA7AeFeaD2F25972D80516628417ac46b3F2604Af",
+    "comparison": "local-from-etherscan-sources",
+    "result": "differs",
+    "differing_fields": [
+      "settings.compilationTarget.Contract.sol",
+      "settings.compilationTarget.ERC1967Proxy.sol",
+      "sources.Contract.sol",
+      "sources.ERC1967Proxy.sol"
+    ]
+  },
+  {
+    "address": "0xA7AeFeaD2F25972D80516628417ac46b3F2604Af",
+    "comparison": "local-from-sourcify-sources",
+    "result": "identical",
+    "differing_fields": []
+  },
+  {
+    "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "comparison": "local-from-etherscan-sources",
+    "result": "differs",
+    "differing_fields": [
+      "output.devdoc.methods.admin().return",
+      "output.devdoc.methods.changeAdmin(address).details",
+      "output.devdoc.methods.changeAdmin(address).params.newAdmin",
+      "output.devdoc.methods.implementation().return",
+      "output.devdoc.methods.upgradeTo(address).details",
+      "output.devdoc.methods.upgradeTo(address).params.newImplementation",
+      "output.devdoc.methods.upgradeToAndCall(address,bytes).details",
+      "output.devdoc.methods.upgradeToAndCall(address,bytes).params.data",
+      "output.devdoc.methods.upgradeToAndCall(address,bytes).params.newImplementation",
+      "output.devdoc.title",
+      "settings.compilationTarget.Contract.sol",
+      "settings.compilationTarget.FiatTokenProxy.sol",
+      "sources.Contract.sol",
+      "sources.FiatTokenProxy.sol"
+    ]
+  },
+  {
+    "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "comparison": "local-from-sourcify-sources",
+    "result": "identical",
+    "differing_fields": []
+  },
+  {
+    "address": "0xd0c2c9b03fc3f358e5854fdf801a7d765929cc5a",
+    "comparison": "local-from-etherscan-sources",
+    "result": "differs",
+    "differing_fields": [
+      "compiler.version",
+      "output.abi",
+      "output.devdoc.methods.flushTokens(address).params.tokenContractAddress",
+      "output.userdoc.methods.flush().notice",
+      "output.userdoc.methods.flushTokens(address).notice",
+      "settings.compilationTarget.Contract.sol",
+      "settings.compilationTarget.Forwarder.sol",
+      "sources.Contract.sol",
+      "sources.Forwarder.sol"
+    ]
+  },
+  {
+    "address": "0xd0c2c9b03fc3f358e5854fdf801a7d765929cc5a",
+    "comparison": "local-from-sourcify-sources",
+    "result": "differs",
+    "differing_fields": [
+      "compiler.version",
+      "output.abi"
+    ]
+  },
+  {
+    "address": "0xe8dec1642714036dc8e4f5baad01b5d7a39f4ea9",
+    "comparison": "local-from-etherscan-sources",
+    "result": "differs",
+    "differing_fields": [
+      "output.devdoc.details",
+      "output.devdoc.methods.admin().return",
+      "output.devdoc.methods.changeAdmin(address).details",
+      "output.devdoc.methods.changeAdmin(address).params.newAdmin",
+      "output.devdoc.methods.constructor.params._admin",
+      "output.devdoc.methods.constructor.params._data",
+      "output.devdoc.methods.constructor.params._logic",
+      "output.devdoc.methods.implementation().return",
+      "output.devdoc.methods.upgradeTo(address).details",
+      "output.devdoc.methods.upgradeTo(address).params.newImplementation",
+      "output.devdoc.methods.upgradeToAndCall(address,bytes).details",
+      "output.devdoc.methods.upgradeToAndCall(address,bytes).params.data",
+      "output.devdoc.methods.upgradeToAndCall(address,bytes).params.newImplementation",
+      "output.devdoc.title",
+      "output.userdoc.methods.constructor",
+      "settings.compilationTarget.AdminUpgradeabilityProxy.sol",
+      "settings.compilationTarget.Contract.sol",
+      "sources.AdminUpgradeabilityProxy.sol",
+      "sources.Contract.sol"
+    ]
+  },
+  {
+    "address": "0xe8dec1642714036dc8e4f5baad01b5d7a39f4ea9",
+    "comparison": "local-from-sourcify-sources",
+    "result": "identical",
+    "differing_fields": []
+  },
+  {
+    "address": "0xb9c499a98593fafe3b7e966719cfda9f85ffac97",
+    "comparison": "local-from-etherscan-sources",
+    "result": "differs",
+    "differing_fields": [
+      "settings.compilationTarget.$ZFGDividendTracker.sol",
+      "settings.compilationTarget.Contract.sol",
+      "settings.libraries.$ZFGDividendTracker.sol:IterableMapping",
+      "sources.$ZFGDividendTracker.sol",
+      "sources.Contract.sol"
+    ]
+  },
+  {
+    "address": "0xb9c499a98593fafe3b7e966719cfda9f85ffac97",
+    "comparison": "local-from-sourcify-sources",
+    "result": "identical",
+    "differing_fields": []
+  },
+  {
+    "address": "0x3eee7fe99640c47abf43cd2c2b6a80eb785e38cf",
+    "comparison": "local-from-etherscan-sources",
+    "result": "differs",
+    "differing_fields": [
+      "settings.compilationTarget.Contract.sol",
+      "settings.compilationTarget.gETH.sol",
+      "settings.libraries.G",
+      "settings.libraries.GLiquidityPoolManager",
+      "settings.libraries.GPortfolioReserveManager",
+      "sources.Contract.sol",
+      "sources.gETH.sol"
+    ]
+  },
+  {
+    "address": "0x3eee7fe99640c47abf43cd2c2b6a80eb785e38cf",
+    "comparison": "local-from-sourcify-sources",
+    "result": "identical",
+    "differing_fields": []
+  },
+  {
+    "address": "0x9c9a8877319dde5c273811042686b1c91522b5ce",
+    "comparison": "local-from-etherscan-sources",
+    "result": "identical",
+    "differing_fields": []
+  },
+  {
+    "address": "0x9c9a8877319dde5c273811042686b1c91522b5ce",
+    "comparison": "local-from-sourcify-sources",
+    "result": "identical",
+    "differing_fields": []
+  },
+  {
+    "address": "0x2b67d1a87a8d8b280a23e97bc55095215ee0ec53",
+    "comparison": "local-from-etherscan-sources",
+    "result": "differs",
+    "differing_fields": [
+      "output.devdoc.methods.initialize(address,uint256).details",
+      "output.devdoc.methods.initialize(address,uint256).params._controller",
+      "output.devdoc.methods.transferDelegation(address).details",
+      "output.devdoc.methods.transferDelegation(address).params._newDelegation",
+      "output.devdoc.methods.transferOwnership(address).details",
+      "output.devdoc.methods.transferOwnership(address).params._newOwner",
+      "settings.compilationTarget.Contract.sol",
+      "settings.compilationTarget.Proxy.sol",
+      "settings.optimizer.runs",
+      "sources.Contract.sol",
+      "sources.Proxy.sol"
+    ]
+  },
+  {
+    "address": "0x2b67d1a87a8d8b280a23e97bc55095215ee0ec53",
+    "comparison": "local-from-sourcify-sources",
+    "result": "identical",
+    "differing_fields": []
+  },
+  {
+    "address": "0xc40d57992f5b657a480b8ed6256128019d8b2139",
+    "comparison": "no_sourcify_original"
+  },
+  {
+    "address": "0xf650c3d88d12db855b8bf7d11be6c55a4e07dcc9",
+    "comparison": "local-from-etherscan-sources",
+    "result": "identical",
+    "differing_fields": []
+  },
+  {
+    "address": "0xf650c3d88d12db855b8bf7d11be6c55a4e07dcc9",
+    "comparison": "local-from-sourcify-sources",
+    "result": "identical",
+    "differing_fields": []
+  },
+  {
+    "address": "0x40cdba18bfbc525a6cf35251e7d90a9b5b66ce30",
+    "comparison": "local-from-etherscan-sources",
+    "result": "differs",
+    "differing_fields": [
+      "settings.compilationTarget.Contract.sol",
+      "settings.compilationTarget.DssSpell.sol",
+      "settings.libraries.DssSpell.sol:DssExecLib",
+      "sources.Contract.sol",
+      "sources.DssSpell.sol"
+    ]
+  },
+  {
+    "address": "0x40cdba18bfbc525a6cf35251e7d90a9b5b66ce30",
+    "comparison": "local-from-sourcify-sources",
+    "result": "identical",
+    "differing_fields": []
+  },
+  {
+    "address": "0xb5de343139b0fb823dbc897a3ef171591cf704d3",
+    "comparison": "local-from-etherscan-sources",
+    "result": "differs",
+    "differing_fields": [
+      "settings.compilationTarget.BrokerV2.sol",
+      "settings.compilationTarget.Contract.sol",
+      "settings.libraries.ERC20Addresses",
+      "settings.libraries.TokenDetArrayLib",
+      "sources.BrokerV2.sol",
+      "sources.Contract.sol"
+    ]
+  },
+  {
+    "address": "0xb5de343139b0fb823dbc897a3ef171591cf704d3",
+    "comparison": "local-from-sourcify-sources",
+    "result": "identical",
+    "differing_fields": []
+  },
+  {
+    "address": "0x2a4e3a514a0b8d6096f208de0cd645547fb73bea",
+    "comparison": "local-from-etherscan-sources",
+    "result": "identical",
+    "differing_fields": []
+  },
+  {
+    "address": "0x2a4e3a514a0b8d6096f208de0cd645547fb73bea",
+    "comparison": "local-from-sourcify-sources",
+    "result": "identical",
+    "differing_fields": []
+  },
+  {
+    "address": "0xc6244db2b2614ddb1f8ffb0d4b0ae5e2686a9f69",
+    "comparison": "local-from-etherscan-sources",
+    "result": "differs",
+    "differing_fields": [
+      "settings.compilationTarget.Contract.sol",
+      "settings.compilationTarget.UniswapV2Pair.sol",
+      "sources.Contract.sol",
+      "sources.UniswapV2Pair.sol"
+    ]
+  },
+  {
+    "address": "0xc6244db2b2614ddb1f8ffb0d4b0ae5e2686a9f69",
+    "comparison": "local-from-sourcify-sources",
+    "result": "identical",
+    "differing_fields": []
+  },
+  {
+    "address": "0x1c68f4f35ac5239650333d291e6ce7f841149937",
+    "comparison": "local-from-etherscan-sources",
+    "result": "missing_local"
+  },
+  {
+    "address": "0x1c68f4f35ac5239650333d291e6ce7f841149937",
+    "comparison": "local-from-sourcify-sources",
+    "result": "missing_local"
+  },
+  {
+    "address": "0x27a2fc2d47c5063a551c8fe81f580b84ab78ac52",
+    "comparison": "local-from-etherscan-sources",
+    "result": "missing_local"
+  },
+  {
+    "address": "0x27a2fc2d47c5063a551c8fe81f580b84ab78ac52",
+    "comparison": "local-from-sourcify-sources",
+    "result": "missing_local"
+  },
+  {
+    "address": "0x7093c3e904720e1fd031fd48aeb424bd2c5c6bfc",
+    "comparison": "local-from-etherscan-sources",
+    "result": "differs",
+    "differing_fields": [
+      "output.devdoc.methods.approve(address,uint256).params._spender",
+      "output.devdoc.methods.approve(address,uint256).params._value",
+      "output.devdoc.methods.approveAndCall(address,uint256,bytes).params._extraData",
+      "output.devdoc.methods.approveAndCall(address,uint256,bytes).params._spender",
+      "output.devdoc.methods.approveAndCall(address,uint256,bytes).params._value",
+      "output.devdoc.methods.burn(uint256).params._value",
+      "output.devdoc.methods.burnFrom(address,uint256).params._from",
+      "output.devdoc.methods.burnFrom(address,uint256).params._value",
+      "output.devdoc.methods.transfer(address,uint256).params._to",
+      "output.devdoc.methods.transfer(address,uint256).params._value",
+      "output.devdoc.methods.transferFrom(address,address,uint256).params._from",
+      "output.devdoc.methods.transferFrom(address,address,uint256).params._to",
+      "output.devdoc.methods.transferFrom(address,address,uint256).params._value",
+      "output.userdoc.methods.approve(address,uint256).notice",
+      "output.userdoc.methods.approveAndCall(address,uint256,bytes).notice",
+      "output.userdoc.methods.burn(uint256).notice",
+      "output.userdoc.methods.burnFrom(address,uint256).notice",
+      "output.userdoc.methods.transfer(address,uint256).notice",
+      "output.userdoc.methods.transferFrom(address,address,uint256).notice",
+      "settings.compilationTarget.CCXTokenERC20.sol",
+      "settings.compilationTarget.Contract.sol",
+      "settings.optimizer.runs",
+      "sources.CCXTokenERC20.sol",
+      "sources.Contract.sol"
+    ]
+  },
+  {
+    "address": "0x7093c3e904720e1fd031fd48aeb424bd2c5c6bfc",
+    "comparison": "local-from-sourcify-sources",
+    "result": "identical",
+    "differing_fields": []
+  },
+  {
+    "address": "0x2b684e8905a850a91f5eea913a19dae3926a6703",
+    "comparison": "local-from-etherscan-sources",
+    "result": "differs",
+    "differing_fields": [
+      "settings.compilationTarget.BWService.sol",
+      "settings.compilationTarget.Contract.sol",
+      "settings.libraries.BWUtility",
+      "sources.BWService.sol",
+      "sources.Contract.sol"
+    ]
+  },
+  {
+    "address": "0x2b684e8905a850a91f5eea913a19dae3926a6703",
+    "comparison": "local-from-sourcify-sources",
+    "result": "identical",
+    "differing_fields": []
+  },
+  {
+    "address": "0xc70be5b7c19529ef642d16c10dfe91c58b5c3bf0",
+    "comparison": "local-from-etherscan-sources",
+    "result": "differs",
+    "differing_fields": [
+      "output.devdoc.methods.approve(address,uint256).details",
+      "output.devdoc.methods.approve(address,uint256).params._to",
+      "output.devdoc.methods.approve(address,uint256).params._tokenId",
+      "output.devdoc.methods.balanceOf(address).details",
+      "output.devdoc.methods.balanceOf(address).params._owner",
+      "output.devdoc.methods.balanceOf(address).return",
+      "output.devdoc.methods.exists(uint256).details",
+      "output.devdoc.methods.exists(uint256).params._tokenId",
+      "output.devdoc.methods.exists(uint256).return",
+      "output.devdoc.methods.getApproved(uint256).details",
+      "output.devdoc.methods.getApproved(uint256).params._tokenId",
+      "output.devdoc.methods.getApproved(uint256).return",
+      "output.devdoc.methods.isApprovedForAll(address,address).details",
+      "output.devdoc.methods.isApprovedForAll(address,address).params._operator",
+      "output.devdoc.methods.isApprovedForAll(address,address).params._owner",
+      "output.devdoc.methods.isApprovedForAll(address,address).return",
+      "output.devdoc.methods.ownerOf(uint256).details",
+      "output.devdoc.methods.ownerOf(uint256).params._tokenId",
+      "output.devdoc.methods.ownerOf(uint256).return",
+      "output.devdoc.methods.replaceManager(address).details",
+      "output.devdoc.methods.replaceManager(address).params.newManager",
+      "output.devdoc.methods.safeTransferFrom(address,address,uint256).details",
+      "output.devdoc.methods.safeTransferFrom(address,address,uint256).params._from",
+      "output.devdoc.methods.safeTransferFrom(address,address,uint256).params._to",
+      "output.devdoc.methods.safeTransferFrom(address,address,uint256).params._tokenId",
+      "output.devdoc.methods.safeTransferFrom(address,address,uint256,bytes).details",
+      "output.devdoc.methods.safeTransferFrom(address,address,uint256,bytes).params._data",
+      "output.devdoc.methods.safeTransferFrom(address,address,uint256,bytes).params._from",
+      "output.devdoc.methods.safeTransferFrom(address,address,uint256,bytes).params._to",
+      "output.devdoc.methods.safeTransferFrom(address,address,uint256,bytes).params._tokenId",
+      "output.devdoc.methods.setApprovalForAll(address,bool).details",
+      "output.devdoc.methods.setApprovalForAll(address,bool).params._approved",
+      "output.devdoc.methods.setApprovalForAll(address,bool).params._to",
+      "output.devdoc.methods.tokenByIndex(uint256).details",
+      "output.devdoc.methods.tokenByIndex(uint256).params._index",
+      "output.devdoc.methods.tokenByIndex(uint256).return",
+      "output.devdoc.methods.tokenOfOwnerByIndex(address,uint256).details",
+      "output.devdoc.methods.tokenOfOwnerByIndex(address,uint256).params._index",
+      "output.devdoc.methods.tokenOfOwnerByIndex(address,uint256).params._owner",
+      "output.devdoc.methods.tokenOfOwnerByIndex(address,uint256).return",
+      "output.devdoc.methods.tokenURI(uint256).details",
+      "output.devdoc.methods.tokenURI(uint256).params._tokenId",
+      "output.devdoc.methods.tokensOf(address).details",
+      "output.devdoc.methods.tokensOf(address).params._owner",
+      "output.devdoc.methods.tokensOf(address).return",
+      "output.devdoc.methods.totalSupply().details",
+      "output.devdoc.methods.totalSupply().return",
+      "output.devdoc.methods.transferFrom(address,address,uint256).details",
+      "output.devdoc.methods.transferFrom(address,address,uint256).params._from",
+      "output.devdoc.methods.transferFrom(address,address,uint256).params._to",
+      "output.devdoc.methods.transferFrom(address,address,uint256).params._tokenId",
+      "output.devdoc.methods.transferOwnership(address).details",
+      "output.devdoc.methods.transferOwnership(address).params.newOwner",
+      "settings.compilationTarget.CardToken.sol",
+      "settings.compilationTarget.Contract.sol",
+      "settings.libraries.Maths",
+      "sources.CardToken.sol",
+      "sources.Contract.sol"
+    ]
+  },
+  {
+    "address": "0xc70be5b7c19529ef642d16c10dfe91c58b5c3bf0",
+    "comparison": "local-from-sourcify-sources",
+    "result": "identical",
+    "differing_fields": []
+  },
+  {
+    "address": "0xa4adf19196bc401a31e6e22e203c4a2fa0d1886a",
+    "comparison": "local-from-etherscan-sources",
+    "result": "differs",
+    "differing_fields": [
+      "settings.compilationTarget.Contract.sol",
+      "settings.compilationTarget.ICHIVault.sol",
+      "settings.libraries.ICHIVault.sol:UV3Math",
+      "sources.Contract.sol",
+      "sources.ICHIVault.sol"
+    ]
+  },
+  {
+    "address": "0xa4adf19196bc401a31e6e22e203c4a2fa0d1886a",
+    "comparison": "local-from-sourcify-sources",
+    "result": "identical",
+    "differing_fields": []
+  },
+  {
+    "address": "0xe428a6abd34f859325ee56d4596ab4c0c421bb34",
+    "comparison": "local-from-etherscan-sources",
+    "result": "identical",
+    "differing_fields": []
+  },
+  {
+    "address": "0xe428a6abd34f859325ee56d4596ab4c0c421bb34",
+    "comparison": "local-from-sourcify-sources",
+    "result": "identical",
+    "differing_fields": []
+  },
+  {
+    "address": "0xa26720393494744a33e337b0a75d03f1b63f9559",
+    "comparison": "no_sourcify_original"
+  }
+]

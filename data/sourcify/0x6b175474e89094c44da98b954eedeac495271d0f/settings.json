@@ -1,0 +1,17 @@
+{
+  "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+  "contract_name": "Dai",
+  "contract_path": "Dai.sol",
+  "compiler_version_full": "0.5.12+commit.7709ece9",
+  "compiler_version": "0.5.12",
+  "optimization_used": false,
+  "runs": 200,
+  "evm_version": "petersburg",
+  "via_ir": false,
+  "bytecode_hash": "ipfs",
+  "libraries": {},
+  "sourcify_match": "match",
+  "sourcify_creation_match": "match",
+  "sourcify_runtime_match": "match",
+  "sourcify_source": "apiv2"
+}

@@ -1,0 +1,17 @@
+{
+  "address": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
+  "contract_name": "TokenMintERC20Token",
+  "contract_path": "TokenMintERC20Token.sol",
+  "compiler_version_full": "0.5.0+commit.1d4f565a",
+  "compiler_version": "0.5.0",
+  "optimization_used": false,
+  "runs": 0,
+  "evm_version": "byzantium",
+  "via_ir": false,
+  "bytecode_hash": "ipfs",
+  "libraries": {},
+  "sourcify_match": "match",
+  "sourcify_creation_match": "match",
+  "sourcify_runtime_match": "match",
+  "sourcify_source": "apiv2"
+}

@@ -1,0 +1,11 @@
+{
+  "contractAddress": "0xb9c499a98593fafe3b7e966719cfda9f85ffac97",
+  "contractCreator": "0x5cea5cc09e749f1f52eba56d5f666b7cd770dd4a",
+  "txHash": "0xbd2887c304298a796d96f53403caa42690fe4639cc1b0101bb025b6f3af50ffe",
+  "blockNumber": "14926214",
+  "timestamp": "1654684301",
+  "contractFactory": "0x796579e5f8fdf4d2b9218a92002dcc5ea2b1f2d1",
+  "creationBytecode": "",
+  "_obtained_via": "direct_tx",
+  "_is_factory_deployed": false
+}

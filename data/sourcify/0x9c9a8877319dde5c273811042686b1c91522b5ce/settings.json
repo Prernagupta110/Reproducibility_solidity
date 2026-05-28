@@ -1,0 +1,17 @@
+{
+  "address": "0x9c9a8877319dde5c273811042686b1c91522b5ce",
+  "contract_name": "DIASourceNFT",
+  "contract_path": "contracts/DIASourceNFT.sol",
+  "compiler_version_full": "0.8.0+commit.c7dfd78e",
+  "compiler_version": "0.8.0",
+  "optimization_used": true,
+  "runs": 20000,
+  "evm_version": "istanbul",
+  "via_ir": false,
+  "bytecode_hash": "ipfs",
+  "libraries": {},
+  "sourcify_match": "exact_match",
+  "sourcify_creation_match": "exact_match",
+  "sourcify_runtime_match": "exact_match",
+  "sourcify_source": "apiv2"
+}

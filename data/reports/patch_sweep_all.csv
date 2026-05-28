@@ -1,0 +1,3 @@
+address,kind,contract_name,recorded,matched_versions,verdict
+0xa7aefead2f25972d80516628417ac46b3f2604af,creation,ERC1967Proxy,0.8.2,,NO_PATCH_MATCHED
+0xe8dec1642714036dc8e4f5baad01b5d7a39f4ea9,creation,AdminUpgradeabilityProxy,0.5.3,,NO_PATCH_MATCHED

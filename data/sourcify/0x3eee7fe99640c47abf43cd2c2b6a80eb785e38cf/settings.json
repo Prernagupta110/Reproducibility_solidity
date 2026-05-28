@@ -1,0 +1,17 @@
+{
+  "address": "0x3eee7fe99640c47abf43cd2c2b6a80eb785e38cf",
+  "contract_name": "gETH",
+  "contract_path": "gETH.sol",
+  "compiler_version_full": "0.6.12+commit.27d51765",
+  "compiler_version": "0.6.12",
+  "optimization_used": false,
+  "runs": 200,
+  "evm_version": "istanbul",
+  "via_ir": false,
+  "bytecode_hash": "ipfs",
+  "libraries": {},
+  "sourcify_match": "match",
+  "sourcify_creation_match": "match",
+  "sourcify_runtime_match": "match",
+  "sourcify_source": "apiv2"
+}

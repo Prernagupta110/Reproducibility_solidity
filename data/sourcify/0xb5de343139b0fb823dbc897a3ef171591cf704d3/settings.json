@@ -1,0 +1,17 @@
+{
+  "address": "0xb5de343139b0fb823dbc897a3ef171591cf704d3",
+  "contract_name": "BrokerV2",
+  "contract_path": "BrokerV2.sol",
+  "compiler_version_full": "0.5.17+commit.d19bba13",
+  "compiler_version": "0.5.17",
+  "optimization_used": true,
+  "runs": 800,
+  "evm_version": "istanbul",
+  "via_ir": false,
+  "bytecode_hash": "ipfs",
+  "libraries": {},
+  "sourcify_match": "match",
+  "sourcify_creation_match": "match",
+  "sourcify_runtime_match": "match",
+  "sourcify_source": "apiv2"
+}

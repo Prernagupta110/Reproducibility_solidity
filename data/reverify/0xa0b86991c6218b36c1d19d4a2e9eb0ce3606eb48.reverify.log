@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/Users/pg/Desktop/Thesis/reverify/reverify.py", line 16, in <module>
+    import solcx
+ModuleNotFoundError: No module named 'solcx'
