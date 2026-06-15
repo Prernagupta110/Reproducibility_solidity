@@ -185,8 +185,3 @@ To analyze additional contracts:
 ## CPIMP Case Study
 
 The CPIMP case study demonstrates the application of the reproducibility framework in a security-oriented analysis scenario. Selected contracts are analyzed to evaluate reproducibility, transparency, and potential indicators requiring further investigation.
-
-## Author
-
-Solidity Smart Contract Reproducibility Framework  
-M.Tech Research Project
