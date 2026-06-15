@@ -1,0 +1,12 @@
+cd /Users/pg/Desktop/Thesis
+cat > .gitignore << 'EOF'
+.env
+data/
+__pycache__/
+*.pyc
+contracts.txt
+_pinned_block.txt
+venv/
+.DS_Store
+reverify/
+EOF
