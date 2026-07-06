@@ -8,7 +8,7 @@ out_dir = DATA_DIR / "etherscan"
 out_dir.mkdir(parents=True, exist_ok=True)
 
 
-def parse_sourcecode_field(raw: str):
+def parse_sourcecode_field(raw: str, contract_name: str):
     raw = raw.strip()
     if raw.startswith("{{") and raw.endswith("}}"):
         return "std-json", json.loads(raw[1:-1])
@@ -17,7 +17,7 @@ def parse_sourcecode_field(raw: str):
             return "multi", json.loads(raw)
         except json.JSONDecodeError:
             pass   
-    return "single", {"Contract.sol": raw}
+    return "single", {f"{contract_name}.sol": raw}
 
 
 def parse_library_field(library_str: str, contract_name: str):
@@ -91,8 +91,15 @@ if __name__ == "__main__":
                 log_failure("fetch_etherscan", addr, "not verified on Etherscan (empty SourceCode)")
                 continue
 
-            kind, parsed = parse_sourcecode_field(rec["SourceCode"])
+            kind, parsed = parse_sourcecode_field(rec["SourceCode"],rec["ContractName"])
+            if kind == "single":
+                  source_paths = [f"{rec['ContractName']}.sol"]
 
+            elif kind == "multi":
+                   source_paths = list(parsed.keys())
+
+            else:  # std-json
+                    source_paths = list(parsed.get("sources", {}).keys())
             # Etherscan gives "v0.8.19+commit.7dd6d404"; solc-select wants "0.8.19".
             compiler_full = rec["CompilerVersion"]
             m = re.match(r"v?(\d+\.\d+\.\d+)", compiler_full)
@@ -124,6 +131,7 @@ if __name__ == "__main__":
                 "bytecode_hash": advanced["bytecode_hash"],
                 "is_proxy": rec.get("Proxy") == "1",
                 "implementation": rec.get("Implementation"),
+                "source_paths": source_paths,
                 "source_kind": kind,
             }
 
